@@ -1,0 +1,7 @@
+{
+  "name": "my-function",
+  "version": "1.0.0",
+  "dependencies": {
+    "google-auth-library": "^8.7.0"
+  }
+}
